@@ -12,6 +12,7 @@ class App extends Component {
     this.notas = [];
     this.state = {
       notas: [],
+      categorias: [],
     };
   }
 
